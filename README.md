@@ -2,7 +2,7 @@
 Проект выполнил: Никита Русов
 
 ## Используемые технологии
--html
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
